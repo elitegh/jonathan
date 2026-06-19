@@ -4,7 +4,7 @@ export const profile = {
   location: "Houston, TX",
   phone: "(972) 474-7596",
   email: "j.trick921@gmail.com",
-  linkedin: "",
+  linkedin: "https://linkedin.com",
   github: "https://github.com/jtrick921",
   available: true,
 };
